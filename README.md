@@ -1,2 +1,2 @@
 # UKbiobank_ICE
-the code describes how to implement ICE multimorbidity analysis
+The code describes how to implement ICE multimorbidity analysis
